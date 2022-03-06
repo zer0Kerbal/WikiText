@@ -12,7 +12,7 @@ repository:
   name: WikiText
 
   # A short description of the repository that will show up on GitHub
-  description: Simple ingame text web browser to access some KSP wiki pages, mostly celestials bodys, using HtmlAgilityPack to extract the text from the wiki web. For Kerbal Space Program.
+  description: Simple in game text web browser to access some KSP wiki pages, mostly celestials bodys, using HtmlAgilityPack to extract the text from the wiki web. For Kerbal Space Program.
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/68216-*
